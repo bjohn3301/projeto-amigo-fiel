@@ -1,10 +1,10 @@
 # Sistema Amigo Fiel
 
-sistema de adocao de animais feito pra disciplina de LPI
+sistema de adoção de animais feito pra disciplina de LPI
 
 ## equipe
 - Brenner Cordeiro
-- Abraao
+- Abraão Eber
 
 ## como rodar
 

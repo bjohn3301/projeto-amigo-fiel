@@ -12,7 +12,7 @@ sistema de adoção de animais feito pra disciplina de LPI
 2. roda o Main.java
 3. usa o menu pra cadastrar animais e adotantes
 
-## funcionalidades da sprint 2
+## funcionalidades
 
 - cadastrar animal
 - listar animais

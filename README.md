@@ -19,7 +19,7 @@ sistema de adoção de animais feito pra disciplina de LPI
 - cadastrar adotante
 - listar adotantes  
 - registrar adocao
-- listar adocoes
+- relatorio de adocoes
 
 ## tecnologias
 
